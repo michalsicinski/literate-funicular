@@ -1,5 +1,3 @@
 ## New Profile
 
-### Patrycja Kozik-Ostrowka
-
-## QA TMC EU
+### Michal Sicinski
