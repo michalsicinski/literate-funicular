@@ -7,6 +7,6 @@ This is new line
 MagdaW
 michals
 PatrycjaK
-SuheybB
+Maciej
 This is new line
 
